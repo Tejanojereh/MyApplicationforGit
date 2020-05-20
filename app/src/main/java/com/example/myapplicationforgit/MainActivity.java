@@ -13,6 +13,8 @@ public class MainActivity extends AppCompatActivity {
         //hi patsy
         double number = 0;
 
+        //Hi user
+        int value = 0;
 
     }
 }
