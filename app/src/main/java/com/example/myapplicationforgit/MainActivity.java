@@ -10,6 +10,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        //hi patsy
+        double number = 0;
+
 
     }
 }
